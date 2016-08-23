@@ -1,14 +1,15 @@
 puts "I will now count my chickens:"
-
+#division addition
 puts "Hens #{25 + 30 / 6}"
+#subtract multiply
 puts "Roosters #{100 - 25 * 3 % 4}"
 
 puts "Now I will count the eggs:"
-
+#do in order of ops w no bracket
 puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
 
 puts "Is it true that 3 + 2 < 5 - 7?"
-
+#irb for false
 puts 3 + 2 < 5 - 7
 
 puts "What is 3 + 2? #{3 + 2}"
