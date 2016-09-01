@@ -1,0 +1,4 @@
+PowerShell References
+ 
+On Windows there's really only PowerShell. Here's a list of useful links for you related to PowerShell:
+Owner's Manualhttp://technet.microsoft.com/en-us/library/ee221100.aspxCheat Sheethttp://www.microsoft.com/download/en/details.aspx?displaylang=en&id=7097Master PowerShellhttp://powershell.com/cs/blogs/ebook/default.aspx
