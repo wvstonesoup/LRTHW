@@ -1,3 +1,1 @@
-did it work
-we shall see
-here goes
+echo "This is a test file." > test.txt
